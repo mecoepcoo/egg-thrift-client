@@ -1,6 +1,6 @@
 {
   "name": "egg-thrift-client",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Thrift client plugin for egg",
   "eggPlugin": {
     "name": "thriftClient"
