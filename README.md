@@ -12,7 +12,12 @@
 
 ### 依赖的插件
 
-- thrift
+- [thrift](https://www.npmjs.com/package/thrift)
+
+需要在egg项目中安装thrift：
+```shell
+$ npm i thrift
+```
 
 ## 开启插件
 
